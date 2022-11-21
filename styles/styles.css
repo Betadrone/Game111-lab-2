@@ -90,10 +90,24 @@ img {
     background-color: black;
 }
 
-#Projects_Overview{
+#Project1{
     border-radius: 50%;
 }
-
+#Project2{
+    border-radius: 50%;
+}
+#Project3{
+    border-radius: 50%;
+}
+#Project4{
+    border-radius: 50%;
+}
+#Project5{
+    border-radius: 50%;
+}
+#Project6{
+    border-radius: 50%;
+}
 
 .FavouriteGames{
     background-color: rgba(60, 255, 0, 0.801) ; 
@@ -110,4 +124,3 @@ img {
 .size_hr{
     height: 3px;
 }
-3
